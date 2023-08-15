@@ -1,3 +1,47 @@
 body {
-    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Lora&family=Poppins&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Lora&family=Poppins&display=swap" rel="stylesheet">margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.first {
+    text-align: center;
+    margin: 10%;
+    color: rgb(255, 255, 255);
+
+}
+
+.clas {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    padding-left: 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-size: 100% 100%;
+
+
+
+
+}
+
+.donate {
+    text-decoration: none;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 100px;
+
 }
